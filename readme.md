@@ -1,6 +1,6 @@
 1. Сначала клонируем проект
 ```
-git clone git@github.com:Tagire/test.git
+git clone git@github.com:Tagire/test_docker.git
 ```
 2. Настраиваем БД, для этого копируем .env.example
 ```
